@@ -1,0 +1,39 @@
+# Flight Delays Analysis - Requirements
+# Python 3.8+
+
+# Core Data Science Libraries
+pandas                          # Data manipulation and analysis
+numpy                           # Numerical computing
+scipy                           # Scientific computing
+
+# Machine Learning
+scikit-learn                    # ML algorithms and utilities
+xgboost                         # Gradient Boosting (optional but recommended)
+
+# Visualization
+matplotlib                      # Static plotting
+seaborn                         # Statistical data visualization
+plotly                          # Interactive visualizations (optional)
+
+# Jupyter and Interactive Environment
+jupyter                         # Jupyter notebook
+jupyterlab                      # JupyterLab IDE (optional but recommended)
+ipython                         # IPython kernel
+
+# Data Exploration and Utilities
+python-dotenv                   # Environment variables (optional)
+
+# Operating System Utilities
+python-dateutil                 # Date utilities
+pytz                            # Timezone library
+
+# Optional but Recommended
+statsmodels                     # Statistical modeling
+shap                            # SHAP for model interpretability
+category-encoders               # Categorical encoding utilities
+imbalanced-learn                # SMOTE and resampling techniques
+
+# Development and Quality
+black                           # Code formatter (optional)
+flake8                          # Code linter (optional)
+pytest                          # Testing framework (optional)
